@@ -6,6 +6,7 @@
 #### Screenshots (if appropriate)
 ![Alt text](http://www.addictedtoibiza.com/wp-content/uploads/2012/12/example.png)
 #### What gif best describes this PR or how it makes you feel?
+![Alt text](http://www.addictedtoibiza.com/wp-content/uploads/2012/12/example.png)
 #### Additional comments:
 #### Definition of Done:
 - [ ] Is there appropriate test coverage?
