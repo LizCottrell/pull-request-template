@@ -4,9 +4,9 @@
 #### How should this be manually tested?
 #### What are the relevant tickets?
 #### Screenshots (if appropriate)
-![Alt text](http://www.addictedtoibiza.com/wp-content/uploads/2012/12/example.png)
+![Screenshot of the issue](https://upload.wikimedia.org/wikipedia/commons/5/57/Bootstrap-3.1.1-screenshot-jumbotron-example.png)
 #### What gif best describes this PR or how it makes you feel?
-![Alt text](http://www.addictedtoibiza.com/wp-content/uploads/2012/12/example.png)
+![Makin bacon pancakes](https://media.giphy.com/media/Jr1dbQy33utOg/giphy.gif)
 #### Additional comments:
 #### Definition of Done:
 - [ ] Is there appropriate test coverage?
