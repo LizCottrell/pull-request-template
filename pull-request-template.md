@@ -9,8 +9,8 @@
 ![Makin bacon pancakes](https://media.giphy.com/media/Jr1dbQy33utOg/giphy.gif)
 #### Additional comments:
 #### Definition of Done:
-- [ ] Is there appropriate test coverage?
-- [ ] Does this pass all automatic linting?
-- [ ] Does the documentation need to be updated?
-- [ ] Does this add new dependencies?
+- [ ] Passes Automated Testing
+- [ ] Passes Linting
+- [ ] Documentation is up to date with any new changes
+- [ ] Meets Project/Company/Personal coding standards
 ### Summary of Commits:
