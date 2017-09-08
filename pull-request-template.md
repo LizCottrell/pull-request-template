@@ -9,8 +9,8 @@
 ![Makin bacon pancakes](https://media.giphy.com/media/Jr1dbQy33utOg/giphy.gif)
 #### Additional comments:
 #### Definition of Done:
-- [ ] Passes Automated Testing
-- [ ] Passes Linting
-- [ ] Documentation is up to date with any new changes
-- [ ] Meets Project/Company/Personal coding standards
+-[ ] Passes Automated Testing
+-[ ] Passes Linting
+-[ ] Documentation is up to date with any new changes
+-[ ] Meets Project/Company/Personal coding standards
 ### Summary of Commits:
