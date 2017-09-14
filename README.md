@@ -45,5 +45,3 @@ Thanks for pointing out this bug, it was a tricky one but I was able to sort it 
 - [ ] Passes Linting
 - [ ] Documentation is up to date with any new changes
 - [ ] Meets Project/Company/Personal coding standards
-
-### Summary of Commits:
