@@ -13,5 +13,3 @@
 - [ ] Passes Linting
 - [ ] Documentation is up to date with any new changes
 - [ ] Meets Project/Company/Personal coding standards
-
-### Summary of Commits:
