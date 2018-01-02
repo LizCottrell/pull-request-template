@@ -40,8 +40,3 @@ TKT-180
 
 Thanks for pointing out this bug, it was a tricky one but I was able to sort it out.
 
-#### Definition of Done:
-- [ ] Passes Automated Testing
-- [ ] Passes Linting
-- [ ] Documentation is up to date with any new changes
-- [ ] Meets Project/Company/Personal coding standards
